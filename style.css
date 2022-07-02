@@ -235,8 +235,8 @@ body{
   }
 
   .cards{
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
   }
   .card .back-view img{
     max-width: 50px;
@@ -285,8 +285,8 @@ body{
     background: #6563ff;
   }
   .cards{
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
   }
   .card .back-view img{
     max-width: 51px;
